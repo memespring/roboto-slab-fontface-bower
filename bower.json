@@ -1,6 +1,7 @@
 {
   "name": "roboto-slab-fontface-bower",
   "version": "0.0.1",
+  "main": "./**/*.{woff,svg,eot,ttf,css}",
   "ignore": [
     "**/.*",
     "node_modules",
